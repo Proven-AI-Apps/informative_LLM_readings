@@ -35,4 +35,23 @@ Available at https://gradientflow.substack.com/
 
 --- 
 ## Rajistics
-### I help enterprises with the latest AI
+### I help enterprises with the latest AI and a side mission of educating folks about AI
+Available at https://projects.rajivshah.com/blog/
+
+---
+
+## Import AI
+### Written by co-founder of Anthropic, an AI safety research company, Import AI is a weekly newsletter about artificial intelligence based on detailed analysis of cutting-edge researc
+Available at https://importai.substack.com/
+
+---
+
+## TLDR AI
+### The most interesting stories in startups, tech, and coding. Over 3,000 subscribers.
+Available at https://tldrnewsletter.substack.com/
+
+---
+
+## Superhuman AI Newsletter
+### Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. Join 1 million readers growing their careers.
+Available at https://www.superhuman.ai/
