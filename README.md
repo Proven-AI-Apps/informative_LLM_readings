@@ -55,3 +55,27 @@ Available at https://tldrnewsletter.substack.com/
 ## Superhuman AI Newsletter
 ### Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. Join 1 million readers growing their careers.
 Available at https://www.superhuman.ai/
+
+---
+
+## The Rundown AI
+### Get the latest AI news, understand why it amtters, and learn how to apply it in your work - all in just 5 minutes a day. 1,000,000 subscribers.
+Available at: https://www.therundown.ai/
+
+---
+
+## AI Snake Oil
+### Debunking AI hype. The book gives you foundational knowledge and the newsletter covers new developments.
+Available at https://www.aisnakeoil.com/
+
+---
+
+## The Algorithmic Bridge
+### A blog about AI that's actually about people 37,000 subscribers
+Available at https://www.thealgorithmicbridge.com/
+
+--- 
+
+## Mindstream
+### Stay informed with the altest news in AI and tech, and receive daily actionable tips and isnights to your inbox.
+Available at https://www.mindstream.news/
